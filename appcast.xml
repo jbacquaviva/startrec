@@ -8,7 +8,7 @@
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://jbacquaviva.github.io/startrec/Start-Rec%20Installer.dmg" length="31494656" type="application/octet-stream" sparkle:edSignature="rlpfN/Dnp59zfzWTbz4WO/OcF5XTStJtJPkXG4jrsDoR+9q6YFqS0C35JMZBfYwwzwWaOXXNFXnafxzGdowVDg=="/>
+            <enclosure url="https://jbacquaviva.github.io/startrec/Start-Rec-0.2.zip" length="31494656" type="application/octet-stream" sparkle:edSignature="LUBpzd/2lDFK5AJndphLfZs0Z4etFoFDf9Pke1ARcxFt8FynOYDZ133+ELhtKs9bYBmKk0eIsFpDkz9XqaJ3Dw=="/>
         </item>
     </channel>
 </rss>
