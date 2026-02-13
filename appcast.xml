@@ -3,10 +3,10 @@
     <channel>
         <title>Start-Rec</title>
         <item>
-            <title>0.1</title>
+            <title>0.2</title>
             <pubDate>Fri, 13 Feb 2026 15:52:48 +0100</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
             <enclosure url="https://jbacquaviva.github.io/startrec/Start-Rec%20Installer.dmg" length="31494656" type="application/octet-stream" sparkle:edSignature="rlpfN/Dnp59zfzWTbz4WO/OcF5XTStJtJPkXG4jrsDoR+9q6YFqS0C35JMZBfYwwzwWaOXXNFXnafxzGdowVDg=="/>
         </item>
