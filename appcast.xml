@@ -6,9 +6,9 @@
         <description>Mises à jour de Start-Rec</description>
         <language>fr</language>
         <item>
-            <title>Version 0.2</title>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
+            <title>Version 0.3</title>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.3</sparkle:shortVersionString>
             <pubDate>Fri, 13 Feb 2026 15:52:48 +0100</pubDate>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
             <description><![CDATA[
@@ -49,11 +49,11 @@
                 </html>
             ]]></description>
             <enclosure url="https://jbacquaviva.github.io/startrec/Start-Rec-0.2.zip"
-                       sparkle:version="2"
-                       sparkle:shortVersionString="0.2"
-                       length="3395791"
+                       sparkle:version="3"
+                       sparkle:shortVersionString="0.3"
+                       length="3395790"
                        type="application/octet-stream"
-                       sparkle:edSignature="KiX/9WJ5/xXtiNeEupfw8uQQ6Cbbbykis8aJNUgm1qfLSAUl9c3wtIiQvjFQaB+B3o6zvXqE5dsLNcy5BqwfCQ==" />
+                       sparkle:edSignature="IxjvMME8juvN+hrSabF6Ctpl1OKeiIt3dU77AfUOA2Z7bX+cn3UJ7EUVeKYx1KDVyDEoMfyH5UuGZixqz27HCA==" />
         </item>
     </channel>
 </rss>
