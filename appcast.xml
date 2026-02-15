@@ -6,9 +6,9 @@
         <description>Mises à jour de Start-Rec</description>
         <language>fr</language>
         <item>
-            <title>Version 0.3</title>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>0.3</sparkle:shortVersionString>
+            <title>Version 0.4</title>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.4</sparkle:shortVersionString>
             <pubDate>Fri, 13 Feb 2026 15:52:48 +0100</pubDate>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
             <description><![CDATA[
@@ -39,21 +39,20 @@
                     </style>
                 </head>
                 <body>
-                    <h2>Nouveautés de la version 0.2</h2>
+                    <h2>Nouveautés de la version 0.4</h2>
                     <ul>
-                        <li>Ajout de la mise à jour automatique via Sparkle</li>
-                        <li>Amélioration de la performance de l'application</li>
+                        <li>Ajout de la configuration par défaut</li>
                         <li>Correction de bugs mineurs</li>
                     </ul>
                 </body>
                 </html>
             ]]></description>
-            <enclosure url="https://jbacquaviva.github.io/startrec/Start-Rec-0.2.zip"
-                       sparkle:version="3"
-                       sparkle:shortVersionString="0.3"
-                       length="3395790"
+            <enclosure url="https://jbacquaviva.github.io/startrec/Start-Rec-0.4.zip"
+                       sparkle:version="4"
+                       sparkle:shortVersionString="0.4"
+                       length="3402968"
                        type="application/octet-stream"
-                       sparkle:edSignature="IxjvMME8juvN+hrSabF6Ctpl1OKeiIt3dU77AfUOA2Z7bX+cn3UJ7EUVeKYx1KDVyDEoMfyH5UuGZixqz27HCA==" />
+                       sparkle:edSignature="K11SCki67KaKhQcorV9BsLCrYk48ZRtGAxHIxevetFI2h2Fqno7As+cFkwDal4wlvq/d5bdYZ+XLkCrs8grrBw==" />
         </item>
     </channel>
 </rss>
