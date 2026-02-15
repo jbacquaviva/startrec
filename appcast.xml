@@ -1,14 +1,59 @@
-<?xml version="1.0" standalone="yes"?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
         <title>Start-Rec</title>
+        <link>https://jbacquaviva.github.io/startrec/appcast.xml</link>
+        <description>Mises à jour de Start-Rec</description>
+        <language>fr</language>
         <item>
-            <title>0.2</title>
-            <pubDate>Fri, 13 Feb 2026 15:52:48 +0100</pubDate>
+            <title>Version 0.2</title>
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
+            <pubDate>Fri, 13 Feb 2026 15:52:48 +0100</pubDate>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://jbacquaviva.github.io/startrec/Start-Rec-0.2.zip" length="3395797" type="application/octet-stream" sparkle:edSignature="z3TSqJCS3yZ09skbVPpJU01I1iIyevLLRLovDWqPtjcB8u1E3hUFG2hyYLyjO8Y1NZx/dVLojb1HrIeZGQ/yAw=="/>
+            <description><![CDATA[
+                <html>
+                <head>
+                    <meta charset="UTF-8">
+                    <style>
+                        body {
+                            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+                            font-size: 13px;
+                            margin: 0;
+                            padding: 12px;
+                        }
+                        h2 {
+                            font-size: 16px;
+                            font-weight: 600;
+                            margin: 0 0 12px 0;
+                            color: #333;
+                        }
+                        ul {
+                            margin: 0;
+                            padding-left: 20px;
+                        }
+                        li {
+                            margin: 6px 0;
+                            line-height: 1.4;
+                        }
+                    </style>
+                </head>
+                <body>
+                    <h2>Nouveautés de la version 0.2</h2>
+                    <ul>
+                        <li>Ajout de la mise à jour automatique via Sparkle</li>
+                        <li>Amélioration de la performance de l'application</li>
+                        <li>Correction de bugs mineurs</li>
+                    </ul>
+                </body>
+                </html>
+            ]]></description>
+            <enclosure url="https://jbacquaviva.github.io/startrec/Start-Rec-0.2.zip"
+                       sparkle:version="2"
+                       sparkle:shortVersionString="0.2"
+                       length="3395791"
+                       type="application/octet-stream"
+                       sparkle:edSignature="KiX/9WJ5/xXtiNeEupfw8uQQ6Cbbbykis8aJNUgm1qfLSAUl9c3wtIiQvjFQaB+B3o6zvXqE5dsLNcy5BqwfCQ==" />
         </item>
     </channel>
 </rss>
