@@ -39,17 +39,17 @@
                     </style>
                 </head>
                 <body>
-                    <h2>Nouveautés de la version 0.4</h2>
+                    <h2>Nouveautés de la version 0.5</h2>
                     <ul>
-                        <li>Ajout de la configuration par défaut</li>
-                        <li>Correction de bugs mineurs</li>
+                        <li>Ajout de la configuration par défaut et l'importation de l'ancienne config</li>
+                        <li>Ajout de "Slack This"</li>
                     </ul>
                 </body>
                 </html>
             ]]></description>
-            <enclosure url="https://jbacquaviva.github.io/startrec/Start-Rec-0.4.zip"
-                       sparkle:version="4"
-                       sparkle:shortVersionString="0.4"
+            <enclosure url="https://jbacquaviva.github.io/startrec/Start-Rec-0.5.zip"
+                       sparkle:version="5"
+                       sparkle:shortVersionString="0.5"
                        length="3467201"
                        type="application/octet-stream"
                        sparkle:edSignature="YNpUltFzhdYvKRaot1MOIAdPy6wpGdaehuGv8IPyj8k2+WWCMf0p4sEuze0N+iI614j3XCBtuXuE5aqZ306/CQ==" />
