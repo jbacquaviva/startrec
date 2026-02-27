@@ -6,9 +6,9 @@
         <description>Mises à jour de Start-Rec</description>
         <language>fr</language>
         <item>
-            <title>Version 0.5</title>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>0.5</sparkle:shortVersionString>
+            <title>Version 0.6</title>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.6</sparkle:shortVersionString>
             <pubDate>Fri, 13 Feb 2026 15:52:48 +0100</pubDate>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
             <description><![CDATA[
@@ -39,20 +39,21 @@
                     </style>
                 </head>
                 <body>
-                    <h2>Nouveautés de la version 0.5</h2>
+                    <h2>Nouveautés de la version 0.6</h2>
                     <ul>
                         <li>Ajout de la configuration par défaut et l'importation de l'ancienne config</li>
                         <li>Ajout de "Slack This"</li>
+                        <li>Des gros bisous sur tes fesses."</li>
                     </ul>
                 </body>
                 </html>
             ]]></description>
-            <enclosure url="https://jbacquaviva.github.io/startrec/Start-Rec-0.5.zip"
-                       sparkle:version="5"
-                       sparkle:shortVersionString="0.5"
-                       length="3467201"
+            <enclosure url="https://jbacquaviva.github.io/startrec/Start-Rec-0.6.zip"
+                       sparkle:version="6"
+                       sparkle:shortVersionString="0.6"
+                       length="3469535"
                        type="application/octet-stream"
-                       sparkle:edSignature="YNpUltFzhdYvKRaot1MOIAdPy6wpGdaehuGv8IPyj8k2+WWCMf0p4sEuze0N+iI614j3XCBtuXuE5aqZ306/CQ==" />
+                       sparkle:edSignature="QRsMQ/VLCN688g4hPHRKGObVQzRtrveisAUMslD+2RX5EVPJBg/n+hywwQ74lL8LAlW0Aaf4fD37y+qIb/nFBg==" />
         </item>
     </channel>
 </rss>
