@@ -6,9 +6,9 @@
         <description>Mises à jour de Start-Rec</description>
         <language>fr</language>
         <item>
-            <title>Version 0.4</title>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>0.4</sparkle:shortVersionString>
+            <title>Version 0.5</title>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.5</sparkle:shortVersionString>
             <pubDate>Fri, 13 Feb 2026 15:52:48 +0100</pubDate>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
             <description><![CDATA[
