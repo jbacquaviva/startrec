@@ -50,9 +50,9 @@
             <enclosure url="https://jbacquaviva.github.io/startrec/Start-Rec-0.4.zip"
                        sparkle:version="4"
                        sparkle:shortVersionString="0.4"
-                       length="3402968"
+                       length="3467201"
                        type="application/octet-stream"
-                       sparkle:edSignature="K11SCki67KaKhQcorV9BsLCrYk48ZRtGAxHIxevetFI2h2Fqno7As+cFkwDal4wlvq/d5bdYZ+XLkCrs8grrBw==" />
+                       sparkle:edSignature="YNpUltFzhdYvKRaot1MOIAdPy6wpGdaehuGv8IPyj8k2+WWCMf0p4sEuze0N+iI614j3XCBtuXuE5aqZ306/CQ==" />
         </item>
     </channel>
 </rss>
