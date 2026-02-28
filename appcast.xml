@@ -6,9 +6,9 @@
         <description>Mises à jour de Start-Rec</description>
         <language>fr</language>
         <item>
-            <title>Version 0.6</title>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>0.6</sparkle:shortVersionString>
+            <title>Version 0.7</title>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.7</sparkle:shortVersionString>
             <pubDate>Fri, 13 Feb 2026 15:52:48 +0100</pubDate>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
             <description><![CDATA[
@@ -39,21 +39,20 @@
                     </style>
                 </head>
                 <body>
-                    <h2>Nouveautés de la version 0.6</h2>
+                    <h2>Nouveautés de la version 0.7</h2>
                     <ul>
-                        <li>Ajout de la configuration par défaut et l'importation de l'ancienne config</li>
-                        <li>Ajout de "Slack This"</li>
+                        <li>Correction du bud des identifiants sur des anciens systèmes.</li>
                         <li>Des gros bisous sur tes fesses."</li>
                     </ul>
                 </body>
                 </html>
             ]]></description>
-            <enclosure url="https://jbacquaviva.github.io/startrec/Start-Rec-0.6.zip"
-                       sparkle:version="6"
-                       sparkle:shortVersionString="0.6"
-                       length="3469535"
+            <enclosure url="https://jbacquaviva.github.io/startrec/Start-Rec-0.7.zip"
+                       sparkle:version="7"
+                       sparkle:shortVersionString="0.7"
+                       length="3475509"
                        type="application/octet-stream"
-                       sparkle:edSignature="QRsMQ/VLCN688g4hPHRKGObVQzRtrveisAUMslD+2RX5EVPJBg/n+hywwQ74lL8LAlW0Aaf4fD37y+qIb/nFBg==" />
+                       sparkle:edSignature="O2mobZgv3J3uaMVZT5b95knN/8IDXa7S9Z6TSBaqmNvamkPZASeJDjS2GszAoMEEh5GOGwwYW7tuVFx4/u0pBw==" />
         </item>
     </channel>
 </rss>
