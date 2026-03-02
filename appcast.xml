@@ -6,9 +6,9 @@
         <description>Mises à jour de Start-Rec</description>
         <language>fr</language>
         <item>
-            <title>Version 0.8</title>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>0.7</sparkle:shortVersionString>
+            <title>Version 0.9</title>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
             <pubDate>Fri, 13 Feb 2026 15:52:48 +0100</pubDate>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
             <description><![CDATA[
@@ -39,20 +39,20 @@
                     </style>
                 </head>
                 <body>
-                    <h2>Nouveautés de la version 0.8</h2>
+                    <h2>Nouveautés de la version 0.9</h2>
                     <ul>
-                        <li>Correction du bud des identifiants sur des anciens systèmes.</li>
-                        <li>Des gros bisous sur tes fesses."</li>
+                        <li>Compatibilité avec des anciennes machines, bouuuuuh les vieux.</li>
+                        <li>Des gros bisous sur tes fesses.</li>
                     </ul>
                 </body>
                 </html>
             ]]></description>
-            <enclosure url="https://jbacquaviva.github.io/startrec/Start-Rec-0.8.zip"
-                       sparkle:version="8"
-                       sparkle:shortVersionString="0.8"
-                       length="3477680"
+            <enclosure url="https://jbacquaviva.github.io/startrec/Start-Rec-0.9.zip"
+                       sparkle:version="9"
+                       sparkle:shortVersionString="0.9"
+                       length="3480324"
                        type="application/octet-stream"
-                       sparkle:edSignature="u62SWUL3Yi3ncUHHGoEKPSmF+1EQ/odgkh8EqzmHFEpgIZyV4EvSG1utKhguMmSvbNoLplQ5CXzNHnjADzD2Dw==" />
+                       sparkle:edSignature="2oA6qFR8aw013nv73USa91JsEpm6OtA38DQr1Q9G4NGpGqfux9SFK/EONmfTkaTgwFlaSYFPSBGLGujVDo0bCA==" />
         </item>
     </channel>
 </rss>
