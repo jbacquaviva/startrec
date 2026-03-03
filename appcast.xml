@@ -6,9 +6,9 @@
         <description>Mises à jour de Start-Rec</description>
         <language>fr</language>
         <item>
-            <title>Version 0.9</title>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+            <title>Version 0.10</title>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>0.10</sparkle:shortVersionString>
             <pubDate>Fri, 13 Feb 2026 15:52:48 +0100</pubDate>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
             <description><![CDATA[
@@ -39,20 +39,20 @@
                     </style>
                 </head>
                 <body>
-                    <h2>Nouveautés de la version 0.9</h2>
+                    <h2>Nouveautés de la version 0.10</h2>
                     <ul>
-                        <li>Compatibilité avec des anciennes machines, bouuuuuh les vieux.</li>
+                        <li>Ouverture du PROD EN COURS sur le SSD dans les Studios plutôt que sur le serveur.</li>
                         <li>Des gros bisous sur tes fesses.</li>
                     </ul>
                 </body>
                 </html>
             ]]></description>
-            <enclosure url="https://jbacquaviva.github.io/startrec/Start-Rec-0.9.zip"
+            <enclosure url="https://jbacquaviva.github.io/startrec/Start-Rec-0.10.zip"
                        sparkle:version="9"
-                       sparkle:shortVersionString="0.9"
-                       length="3480324"
+                       sparkle:shortVersionString="0.10"
+                       length="3482292"
                        type="application/octet-stream"
-                       sparkle:edSignature="2oA6qFR8aw013nv73USa91JsEpm6OtA38DQr1Q9G4NGpGqfux9SFK/EONmfTkaTgwFlaSYFPSBGLGujVDo0bCA==" />
+                       sparkle:edSignature="uqZFHpVxxFwOwmns49GcPnGtYRJ8pZ5bUwEuBUZpcReFbMy2doFdzcWrmn95D9EDiXfmNk/BNx2HjdUIjkgHAQ==" />
         </item>
     </channel>
 </rss>
