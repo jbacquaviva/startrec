@@ -6,9 +6,9 @@
         <description>Mises à jour de Start-Rec</description>
         <language>fr</language>
         <item>
-            <title>Version 0.10</title>
+            <title>Version 0.91</title>
             <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>0.10</sparkle:shortVersionString>
+            <sparkle:shortVersionString>0.91</sparkle:shortVersionString>
             <pubDate>Fri, 13 Feb 2026 15:52:48 +0100</pubDate>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
             <description><![CDATA[
@@ -39,7 +39,7 @@
                     </style>
                 </head>
                 <body>
-                    <h2>Nouveautés de la version 0.10</h2>
+                    <h2>Nouveautés de la version 0.91</h2>
                     <ul>
                         <li>Ouverture du PROD EN COURS sur le SSD dans les Studios plutôt que sur le serveur.</li>
                         <li>Des gros bisous sur tes fesses.</li>
@@ -47,9 +47,9 @@
                 </body>
                 </html>
             ]]></description>
-            <enclosure url="https://jbacquaviva.github.io/startrec/Start-Rec-0.10.zip"
-                       sparkle:version="9"
-                       sparkle:shortVersionString="0.10"
+            <enclosure url="https://jbacquaviva.github.io/startrec/Start-Rec-0.91.zip"
+                       sparkle:version="10"
+                       sparkle:shortVersionString="0.91"
                        length="3482292"
                        type="application/octet-stream"
                        sparkle:edSignature="uqZFHpVxxFwOwmns49GcPnGtYRJ8pZ5bUwEuBUZpcReFbMy2doFdzcWrmn95D9EDiXfmNk/BNx2HjdUIjkgHAQ==" />
