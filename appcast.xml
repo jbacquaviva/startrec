@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Start-Rec</title>
+        <link>https://jbacquaviva.github.io/startrec/appcast.xml</link>
+        <description>Mises à jour de Start-Rec</description>
+        <language>fr</language>
+        <item>
+            <title>Version 0.92</title>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>0.92</sparkle:shortVersionString>
+            <pubDate>Fri, 13 Feb 2026 15:52:48 +0100</pubDate>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <html>
+                <head>
+                    <meta charset="UTF-8">
+                    <style>
+                        body {
+                            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+                            font-size: 13px;
+                            margin: 0;
+                            padding: 12px;
+                        }
+                        h2 {
+                            font-size: 16px;
+                            font-weight: 600;
+                            margin: 0 0 12px 0;
+                            color: #333;
+                        }
+                        ul {
+                            margin: 0;
+                            padding-left: 20px;
+                        }
+                        li {
+                            margin: 6px 0;
+                            line-height: 1.4;
+                        }
+                    </style>
+                </head>
+                <body>
+                    <h2>Nouveautés de la version 0.92</h2>
+                    <ul>
+                        <li>Appli validée par Apple donc plus besoin d'enlever la sécurité.</li>
+                        <li>Des gros bisous.</li>
+                    </ul>
+                </body>
+                </html>
+            ]]></description>
+            <enclosure url="https://jbacquaviva.github.io/startrec/Start-Rec-0.92.zip"
+                       sparkle:version="11"
+                       sparkle:shortVersionString="0.92"
+                       length="3530996"
+                       type="application/octet-stream"
+                       sparkle:edSignature="LFnlmsqxP7g6DpALrTk0geTSh7U2iJBZ2GR21CocRTCVxmZh1+CJ3/AbJoDb42+7Qdr4t2LGZ5/n+BzYZi00BQ==" />
+        </item>
+    </channel>
+</rss>
